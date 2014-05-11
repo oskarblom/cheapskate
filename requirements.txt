@@ -1,0 +1,11 @@
+Flask==0.10.1
+Jinja2==2.7.2
+MarkupSafe==0.23
+Werkzeug==0.9.4
+gevent==1.0.1
+greenlet==0.4.2
+itsdangerous==0.24
+mercurial==3.0
+readline==6.2.4.1
+redis==2.9.1
+wsgiref==0.1.2
